@@ -1,4 +1,4 @@
-### Table Drill Down
+## Table Drill Down
 
 
 To drill down the information levels, click on the table cells. 3 levels are available in this mock up.
